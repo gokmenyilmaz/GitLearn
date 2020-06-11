@@ -1,1 +1,3 @@
 # GitLearn
+
+ilk oluşturulan
